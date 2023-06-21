@@ -137,3 +137,7 @@ iframe, video {
   max-width: 120%;
 }
 
+.greeting {
+  text-align: center;
+}
+
