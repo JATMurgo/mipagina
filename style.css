@@ -126,11 +126,16 @@ nav li {
 }
 
 .foot-conteiner {
-  padding-top:50px ;
+  padding-top:100px ;
   gap: 20px;
-  height: 200px;
+  height: 100px;
   text-align: center;
-  background-color: #c4c3c3;
+  background-color: #c0bdbd;
+}
+.foot-conteiner2 {
+  padding-top:410px;
+  height: 10px;
+  text-align: center;
 }
 
 iframe, video {
@@ -144,7 +149,7 @@ iframe, video {
   width: fit-content;
 }
 
-.greeting {
+.container-greeting {
   text-align: center;
 }
 
