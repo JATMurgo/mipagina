@@ -127,8 +127,7 @@ nav li {
 
 .foot-conteiner {
   padding-top:100px ;
-  gap: 20px;
-  height: 100px;
+  height: 200px;
   text-align: center;
   background-color: #c0bdbd;
 }
